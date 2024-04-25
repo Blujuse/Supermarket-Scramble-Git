@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/University Work/CMP4274 & CMP4293 Assignment/Supermarket-Scramble-Git/Content/Blueprints/Fruits/Fruit.uasset",
+				"E:/University Work/CMP4274 & CMP4293 Assignment/Supermarket-Scramble-Git/Content/__ExternalActors__/Levels/Store/3/JW/J19YUI09OTAALBICSBMFT2.uasset",
+				"E:/University Work/CMP4274 & CMP4293 Assignment/Supermarket-Scramble-Git/Content/__ExternalActors__/Levels/Store/6/Y3/09MHC6JB9B5SGBX2FVJNN9.uasset",
+				"E:/University Work/CMP4274 & CMP4293 Assignment/Supermarket-Scramble-Git/Content/Chaos_Objects/Basket_Drinks_GeometryCollection.uasset",
+				"E:/University Work/CMP4274 & CMP4293 Assignment/Supermarket-Scramble-Git/Content/Chaos_Objects/Shelf_Baked_Var5_GeometryCollection.uasset",
+				"E:/University Work/CMP4274 & CMP4293 Assignment/Supermarket-Scramble-Git/Content/Chaos_Objects/Shelf_Bread_Stepped_Var3_GeometryCollection.uasset",
+				"E:/University Work/CMP4274 & CMP4293 Assignment/Supermarket-Scramble-Git/Content/Chaos_Objects/Shelf_Bread_Var1_GeometryCollection.uasset",
+				"E:/University Work/CMP4274 & CMP4293 Assignment/Supermarket-Scramble-Git/Content/Chaos_Objects/Veg_GeometryCollection.uasset",
+				"E:/University Work/CMP4274 & CMP4293 Assignment/Supermarket-Scramble-Git/Content/Chaos_Objects/Fruit2_GeometryCollection.uasset",
+				"E:/University Work/CMP4274 & CMP4293 Assignment/Supermarket-Scramble-Git/Content/Blueprints/Infrastructure/Roof_Light.uasset",
+				"E:/University Work/CMP4274 & CMP4293 Assignment/Supermarket-Scramble-Git/Content/Levels/Store.umap"
+			]
+		}
+	]
+}
