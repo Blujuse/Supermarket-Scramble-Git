@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/University Work/CMP4274 & CMP4293 Assignment/Supermarket-Scramble-Git/Content/MyGameMode.uasset",
+				"E:/University Work/CMP4274 & CMP4293 Assignment/Supermarket-Scramble-Git/Content/__ExternalActors__/Levels/Store/3/HV/TG1DLOPHCF6YOXECINP7NR.uasset",
+				"E:/University Work/CMP4274 & CMP4293 Assignment/Supermarket-Scramble-Git/Content/__ExternalActors__/Levels/Store/5/2T/IQPWTPF067RD0973OYUYJH.uasset",
+				"E:/University Work/CMP4274 & CMP4293 Assignment/Supermarket-Scramble-Git/Content/Levels/Store.umap",
+				"E:/University Work/CMP4274 & CMP4293 Assignment/Supermarket-Scramble-Git/Content/__ExternalActors__/Levels/Store/1/C5/J6YHYIBF767BJW1WAF5KOZ.uasset"
+			]
+		}
+	]
+}
